@@ -1,0 +1,31 @@
+
+OUTPUT
+
+Skipping row 1 due to missing or invalid date values.
+Skipping row 49 due to missing or invalid date values.
+CaMaXaWE, CeghaW (WFS000153) has less than 10 hours between shifts.
+Skipping row 62 due to missing or invalid date values.
+Skipping row 64 due to missing or invalid date values.
+CaMaXaWE, CeghaW (WFS000153) has less than 10 hours between shifts.
+Skipping row 90 due to missing or invalid date values.
+Skipping row 159 due to missing or invalid date values.
+Xee, XaCar (WFS000200) has less than 10 hours between shifts.
+Xee, XaCar (WFS000200) has less than 10 hours between shifts.
+Xee, XaCar (WFS000200) has less than 10 hours between shifts.
+Skipping row 232 due to missing or invalid date values.
+De Xa Cerda, IgWaciE (WFS000318) has less than 10 hours between shifts.
+MraW, WiXXiaC Ha (WFS000345) has less than 10 hours between shifts.
+MraW, WiXXiaC Ha (WFS000345) has less than 10 hours between shifts.
+Skipping row 536 due to missing or invalid date values.
+Skipping row 553 due to missing or invalid date values.
+CEreira Jr, JEse (WFS000456) has less than 10 hours between shifts.
+GrACfieXd, CErWeXiAs (WFS000515) has less than 10 hours between shifts.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523) has less than 10 hours between shifts.
+Skipping row 1055 due to missing or invalid date values.
+Skipping row 1057 due to missing or invalid date values.
+Skipping row 1067 due to missing or invalid date values.
+HaCiXMEW, DeaWMe DevEW (WFS000536) has less than 10 hours between shifts.
+REdrigAez, GraWdEW AWgeX (WFS000550) has less than 10 hours between shifts.
+Skipping row 1200 due to missing or invalid date values.
+CarMer, XyWWeXX DejAaW Jr (WFS000576) has less than 10 hours between shifts.
+Skipping row 1484 due to missing or invalid date values.
